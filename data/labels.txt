@@ -1,0 +1,4 @@
+canh_bao
+duong_1_chieu
+giao_lo
+stop
