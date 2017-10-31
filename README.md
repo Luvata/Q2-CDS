@@ -63,6 +63,6 @@ Theo data tu BTSD : tat ca anh la dinh dang .ppm, Converter.py de chuyen anh tro
  stop 0.961738
 
  ```
- ## TODO : Modify lai file label_image voi input la directory chua anh, output ghi ra file txt
+ ### chua xong : Modify lai file label_image voi input la directory chua anh, output ghi ra file txt
 
  
