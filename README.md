@@ -23,7 +23,7 @@ Theo data tu BTSD : tat ca anh la dinh dang .ppm, Converter.py de chuyen anh tro
  - [optional] Cuda & Cudnn ( giup training nhanh hon )
  
 ## Cac buoc hoan thanh
- 1. override folder data den 
+ 1. clone git nay, override folder data den vi tri : 
  ```
   /tensorflow/examples/image_retraining
  ```
@@ -63,6 +63,6 @@ Theo data tu BTSD : tat ca anh la dinh dang .ppm, Converter.py de chuyen anh tro
  stop 0.961738
 
  ```
- ### chua xong : Modify lai file label_image voi input la directory chua anh, output ghi ra file txt
+ ### chua xong : Modify lai file label_image voi input la directory anh, output ghi label ra file txt
 
  
